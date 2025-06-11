@@ -15,6 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=krish2005tech&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+![snake gif](https://github.com/Krish2005tech/Krish2005tech/blob/output/github-snake-dark.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
