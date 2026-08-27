@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi there! 👋  <br>I’m **Krish Teckchandani**, currently a sophomore at **IIT Jodhpur**, pursuing **Computer Science and Engineering**.  <br><br>### About Me  <br>💡 **Interests:** I’m passionate about **machine learning**, **cybersecurity**, and **blockchain**.  <br>📚 **Currently Learning:** Exploring **Theoretical computer science** and diving deeper into **Deep Learning**.  <br>🤖 **Fun CS Fact:** The first computer virus, **Creeper**, wasn’t destructive—it just displayed the message, *"I'm the creeper: catch me if you can!"*  <br><br>Feel free to explore my repositories or connect for collaboration! 🚀  <br><br>
+<br>Hi there! 👋  <br>I’m **Krish Teckchandani**, currently a final year student at **IIT Jodhpur**, pursuing **Computer Science and Engineering**.  <br><br>### About Me  <br>💡 **Interests:** I’m passionate about **machine learning**, **cybersecurity**, and **blockchain**.  <br>📚 **Currently Learning:** Exploring **Theoretical computer science** and diving deeper into **Deep Learning**.  <br>🤖 **Fun CS Fact:** The first computer virus, **Creeper**, wasn’t destructive—it just displayed the message, *"I'm the creeper: catch me if you can!"*  <br><br>Feel free to explore my repositories or connect for collaboration! 🚀  <br><br>
 
 
 ## 🌐 Socials:
